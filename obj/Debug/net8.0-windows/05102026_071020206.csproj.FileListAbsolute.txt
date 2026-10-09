@@ -1,0 +1,17 @@
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\bin\Debug\net8.0-windows\05102026_071020206.exe
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\bin\Debug\net8.0-windows\05102026_071020206.deps.json
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\bin\Debug\net8.0-windows\05102026_071020206.runtimeconfig.json
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\bin\Debug\net8.0-windows\05102026_071020206.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\bin\Debug\net8.0-windows\05102026_071020206.pdb
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\_05102026_071020206.Form1.resources
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\_05102026_071020206.Properties.Resources.resources
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\05102026_071020206.csproj.GenerateResource.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\05102026_071020206.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\05102026_071020206.AssemblyInfoInputs.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\05102026_071020206.AssemblyInfo.cs
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\05102026_071020206.csproj.CoreCompileInputs.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\05102026_071020206.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\refint\05102026_071020206.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\05102026_071020206.pdb
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\05102026_071020206.genruntimeconfig.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\obj\Debug\net8.0-windows\ref\05102026_071020206.dll
