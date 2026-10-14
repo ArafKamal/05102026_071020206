@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "V2KHloCCeu0=",
+  "dgSpecHash": "vjhHSTQDptI=",
   "success": true,
   "projectFilePath": "C:\\Users\\kamal\\source\\repos\\catalogoesercizi-ArafKamal\\05102026_071020206\\05102026_071020206.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kamal\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\kamal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.30\\microsoft.netcore.app.host.win-x64.8.0.30.nupkg.sha512"
+  ],
   "logs": []
 }

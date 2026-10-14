@@ -1,0 +1,14 @@
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\bin\Debug\net8.0\05102026_071020206.Tests.exe
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\bin\Debug\net8.0\05102026_071020206.Tests.deps.json
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\bin\Debug\net8.0\05102026_071020206.Tests.runtimeconfig.json
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\bin\Debug\net8.0\05102026_071020206.Tests.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\bin\Debug\net8.0\05102026_071020206.Tests.pdb
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\obj\Debug\net8.0\05102026_071020206.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\obj\Debug\net8.0\05102026_071020206.Tests.AssemblyInfoInputs.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\obj\Debug\net8.0\05102026_071020206.Tests.AssemblyInfo.cs
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\obj\Debug\net8.0\05102026_071020206.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\obj\Debug\net8.0\05102026_071020206.Tests.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\obj\Debug\net8.0\refint\05102026_071020206.Tests.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\obj\Debug\net8.0\05102026_071020206.Tests.pdb
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\obj\Debug\net8.0\05102026_071020206.Tests.genruntimeconfig.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\05102026_071020206\tests\obj\Debug\net8.0\ref\05102026_071020206.Tests.dll

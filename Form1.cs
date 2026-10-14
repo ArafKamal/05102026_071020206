@@ -1,6 +1,5 @@
 using _05102026_07102026;
 using System.Media;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.ToolTip;
 
 namespace _05102026_071020206
 {
@@ -13,35 +12,27 @@ namespace _05102026_071020206
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            Cane Gatto1 = new Cane("bob", 10);
-            string risultato = Gatto1.Verso();
-            MessageBox.Show(risultato);
-
-            SoundPlayer suono = new SoundPlayer("versi/a-medium-sized-dog-woofing.wav");
-            suono.Play();
+            MostraAnimale(TipoAnimale.Cane, "versi/a-medium-sized-dog-woofing.wav");
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            Pollo Gatto1 = new Pollo("bob", 10);
-            string risultato = Gatto1.Verso();
-            MessageBox.Show(risultato);
-
-            SoundPlayer suono = new SoundPlayer("versi/raven-calling.wav");
-            suono.Play();
-            
+            MostraAnimale(TipoAnimale.Pollo, "versi/raven-calling.wav");
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            Gatto Gatto1 = new Gatto("bob", 10);
-            string risultato = Gatto1.Verso();
-            MessageBox.Show(risultato);
+            MostraAnimale(TipoAnimale.Gatto, "versi/cat-simon-purring.wav");
+        }
 
-            SoundPlayer suono = new SoundPlayer("versi/cat-simon-purring.wav");
+        private static void MostraAnimale(TipoAnimale tipo, string percorsoSuono)
+        {
+            Animale animale = AnimaleFactory.Crea(tipo, "bob", 10);
+            FileLogger.Instance.Log($"Creato {animale.GetType().Name}: {animale.Nome}, eta={animale.Age}.");
+            MessageBox.Show(animale.Verso());
+
+            SoundPlayer suono = new SoundPlayer(percorsoSuono);
             suono.Play();
-
-
         }
     }
 }
